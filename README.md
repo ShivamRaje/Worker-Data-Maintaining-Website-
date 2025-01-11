@@ -47,7 +47,7 @@
 
 
   <h2>Contributions</h2>
-  <p>Contributions are welcome! Feel free to fork this project, submit issues, and open pull requests.</p>
+  <p>Contributions are welcome! Feel free to fork this project, submit issues, and open pull requests..</p>
 
 </body>
 </html>
