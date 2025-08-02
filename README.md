@@ -20,7 +20,7 @@
 
   <h2>Technologies Used</h2>
   <ul>
-    <li>Front-end: HTML, CSS, JavaScript</li>
+    <li>Front-end: HTML, CSS, JavaScript.</li>
 <!--     <li>Back-end: Java (J2EE)</li> -->
     <li>Database: MySQL</li>
   </ul>
