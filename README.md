@@ -9,7 +9,7 @@
 
   <h1>Worker Data Maintaining Website.</h1>
 
-  <p>A web-based project designed to help manage worker data efficiently. This application allows workers to upload their information and enables admins to search and delete outdated records easily..</p>
+  <p>A web-based project designed to help manage worker data efficiently.. This application allows workers to upload their information and enables admins to search and delete outdated records easily..</p>
 
   <h2>Features</h2>
   <ul>
