@@ -14,7 +14,7 @@
   <h2>Features</h2>
   <ul>
     <li>Worker Upload: Workers can submit their data, ensuring that admins have up-to-date information..</li>
-    <li>Admin Search: Admins can search for worker information using various filters for quick access to records.</li>
+    <li>Admin Search: Admins can search for worker information using various filters for quick access to records..</li>
     <li>Admin Delete: Outdated or irrelevant records can be deleted by admins to maintain clean data storage.</li>
   </ul>
 
